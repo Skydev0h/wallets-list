@@ -86,5 +86,21 @@
         "key": "xtonwallet"
       }
     ]
+  },
+  {
+    "name": "QuarkTON",
+    "image": "https://tc.quarkton.app/icon.png",
+    "about_url": "https://quarkton.app",
+    "universal_url": "https://tc.quarkton.app/",
+    "bridge": [
+      {
+        "type": "sse",
+        "url": "https://br.quarkton.app/"
+      },
+      {
+        "type": "js",
+        "key": "quarkton"
+      }
+    ]
   }
 ]
